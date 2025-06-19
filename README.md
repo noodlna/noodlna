@@ -1,4 +1,4 @@
-## 👋 Hi, there! I’m Noodle.
+## 👋 Hi, I’m Noodle.
 
 - 🎉 Focus on becoming a full-stack engineer and studying the balance between self-growth, work, and life.
 - 😎 life status: "💪💰✈️🏊‍♀️🚵‍♀️📖"
