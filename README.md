@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Noodle.
 
-### - 🎉 Focus on becoming a full-stack engineer and studying the balance between self-growth, work, and life.
-### - 😎 life status: "💪💰✈️🏊‍♀️🚵‍♀️📖"
+### 🎉 Focus on becoming a full-stack engineer and studying the balance between self-growth, work, and life.
+### 😎 life status: "💪💰✈️🏊‍♀️🚵‍♀️📖"
 
 ## 📫 Contact me via:
 
