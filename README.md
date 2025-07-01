@@ -1,6 +1,6 @@
 ## Hi there, I'm Noodle <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
-### 🎉 Focus on becoming a full-stack engineer and studying the balance between self-growth, work, and life.
+### 🎉 Focus on becoming a full-stack engineer.
 ### 😎 life status: "💪💰✈️🏊‍♀️🚵‍♀️📖"
 
 ## 📫 Contact me via:
