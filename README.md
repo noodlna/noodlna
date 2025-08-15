@@ -5,4 +5,4 @@
 
 ## 📫 Contact me via:
 
-  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:chowna1121@gmail.com)&emsp;
+  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="chowna1121@gmail.com"/>](mailto:chowna1121@gmail.com)&emsp;
