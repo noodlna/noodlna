@@ -1,7 +1,7 @@
 ## Hi there, I'm Noodle <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
 ### 🧐 Focus on something~.
-### 😎 life status: "💪 💰 ✈️ 🏊‍♀️ 🚵‍♀️ 📖"
+### 😎 life status: "💪 💰 ✈️ 🏊‍♀️ 🚵‍♀️ 🚶‍♀️ 📚"
 
 ## 📫 Contact me via:
 
